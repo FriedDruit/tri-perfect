@@ -23,3 +23,6 @@ known tri-perfect numbers :
 - 51,001,180,160
 - .....
 ---
+
+- The first js file works but is very slow
+- adding ways to cut down on calculations
