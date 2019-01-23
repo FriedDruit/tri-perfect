@@ -24,5 +24,5 @@ known tri-perfect numbers :
 - .....
 ---
 
-- The first js file works but is very slow
+- The tri.js file works but is very slow
 - adding ways to cut down on calculations
