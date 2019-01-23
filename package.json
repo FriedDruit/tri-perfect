@@ -1,0 +1,19 @@
+{
+  "name": "tri-perfect",
+  "version": "1.0.0",
+  "description": "The search for more tri-perfect numbers!",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FriedDruit/tri-perfect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FriedDruit/tri-perfect/issues"
+  },
+  "homepage": "https://github.com/FriedDruit/tri-perfect#readme"
+}
