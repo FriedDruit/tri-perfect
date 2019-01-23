@@ -2,7 +2,7 @@
   "name": "tri-perfect",
   "version": "1.0.0",
   "description": "The search for more tri-perfect numbers!",
-  "main": "first.js",
+  "main": "tri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
