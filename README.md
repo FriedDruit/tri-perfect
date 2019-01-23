@@ -3,7 +3,7 @@ The search for more tri-perfect numbers!
 
 Creating algorithms in javascript and Haskell to search for more tri-perfect numbers.
 
-a perfect number is a number that when all its factors are added up, it is equal to 2 * that number.
+a perfect number is a number that when all of its factors are added up, it is equal to 2 * that number.
 
 i.e: 6
 
@@ -11,7 +11,7 @@ i.e: 6
 1 + 2 + 3 + 6 = 12
 12 / 2 = 6
 
-A tri-perfect number is the same except the result is the inital number   mulitplied by 3.
+A tri-perfect number is the same except the result is the inital number mulitplied by 3.
 
 known tri-perfect numbers :
 ---
