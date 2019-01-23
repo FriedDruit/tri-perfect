@@ -15,7 +15,6 @@ A tri-perfect number is the same except the result is the inital number   mulitp
 
 known tri-perfect numbers :
 ---
-- .....
 - 120
 - 672
 - 523,776
