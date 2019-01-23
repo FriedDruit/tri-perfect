@@ -14,12 +14,12 @@ i.e: 6
 A tri-perfect number is the same except the result is the inital number   mulitplied by 3.
 
 known tri-perfect numbers :
----
+.....
 120
 672
 523,776
 459,818,240
 1,476,304,896
 51,001,180,160
----
+.....
 
